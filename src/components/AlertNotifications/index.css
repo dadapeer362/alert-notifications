@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.alert-container {
+  padding: 50px;
+}
+
+.text-container {
+  margin-left: 30px;
+}
+
+.alert-heading {
+  text-align: center;
+}
+
+.text-para {
+  color: #475569;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.icons-style {
+  margin-top: 25px;
+  font-size: 30px;
+}
+
+.success-color {
+  color: #2dca73;
+}
+
+.error-color {
+  color: #ff0b37;
+}
+
+.warning-color {
+  color: #ffb800;
+}
+
+.info-color {
+  color: #0f81e0;
+}
